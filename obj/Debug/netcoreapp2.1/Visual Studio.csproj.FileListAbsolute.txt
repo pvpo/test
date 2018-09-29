@@ -1,0 +1,11 @@
+/home/soulslayer/Dev/Workspace/Visual Studio/bin/Debug/netcoreapp2.1/Visual Studio.deps.json
+/home/soulslayer/Dev/Workspace/Visual Studio/bin/Debug/netcoreapp2.1/Visual Studio.runtimeconfig.json
+/home/soulslayer/Dev/Workspace/Visual Studio/bin/Debug/netcoreapp2.1/Visual Studio.runtimeconfig.dev.json
+/home/soulslayer/Dev/Workspace/Visual Studio/bin/Debug/netcoreapp2.1/Visual Studio.dll
+/home/soulslayer/Dev/Workspace/Visual Studio/bin/Debug/netcoreapp2.1/Visual Studio.pdb
+/home/soulslayer/Dev/Workspace/Visual Studio/obj/Debug/netcoreapp2.1/Visual Studio.csprojAssemblyReference.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/obj/Debug/netcoreapp2.1/Visual Studio.csproj.CoreCompileInputs.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/obj/Debug/netcoreapp2.1/Visual Studio.AssemblyInfoInputs.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/obj/Debug/netcoreapp2.1/Visual Studio.AssemblyInfo.cs
+/home/soulslayer/Dev/Workspace/Visual Studio/obj/Debug/netcoreapp2.1/Visual Studio.dll
+/home/soulslayer/Dev/Workspace/Visual Studio/obj/Debug/netcoreapp2.1/Visual Studio.pdb
